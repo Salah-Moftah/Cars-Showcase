@@ -30,7 +30,7 @@ function Hero() {
       <div className="hero__image-container">
         <div className="hero__image">
           <Image
-          src='/Hero.png'
+          src='/hero.png'
           alt="hero photo"
           fill
           className='object-contain'
