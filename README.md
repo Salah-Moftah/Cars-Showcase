@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center">Cars-Showcase-Application</h1>
 
-First, run the development server:
+<p>The application is a website for renting cars of various types, built entirely using Next.js 13 and TypeScript. The site used API <a href="https://www.imagin.studio/car-image-api" target="_blank">imagin.studio/car-image-api</a> to retrieve all car data, and API <a href="https://rapidapi.com/apininjas/api/cars-by-api-ninjas" target="_blank">Rapidapi</a> was also used to retrieve all pictures of the cars on the site. </p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun run dev
-```
+<div><h3>Demo: </h3><a href="https://cars-showcase-k3y8a104x-salah-moftah.vercel.app" target="_blank">cars-showcase-k3y8a104x-salah-moftah.vercel.app</a></div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
+- Use Next.js 13 App Router and Server Side Rendering
+- Implement Advanced Search Functionality
+- Create Filtering Capabilities
+- Optimize Metadata and SEO
+- Create custom filter, combobox, and modal elements
+- Maintain a well-organized file and folder structure.
+- Maintaining clean code writing principles.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Built With
+- Next.js 13
+- TypeScript
+- Tailwind
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contact
+- GitHub [@Salah-Moftah](https://github.com/Salah-Moftah)
+- FaceBook [@salahmoftah142](https://www.facebook.com/salahmoftah142)
+- LinkedIn [@](#)
