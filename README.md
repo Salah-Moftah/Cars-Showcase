@@ -18,6 +18,7 @@
 - Next.js 13
 - TypeScript
 - Tailwind
+- Headless UI
 
 ## Contact
 - GitHub [@Salah-Moftah](https://github.com/Salah-Moftah)
