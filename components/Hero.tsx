@@ -32,6 +32,7 @@ function Hero() {
           <Image
           src='/hero.png'
           alt="hero photo"
+          unoptimized
           fill
           className='object-contain'
           />
